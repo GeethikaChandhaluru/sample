@@ -2,5 +2,7 @@
 <body>
   <h1>Hello Button 2</h1>
   <button>Click me too</button>
+  <h1>Hello Button 1</h1>
+  <button>Click me</button>
 </body>
 </html>
